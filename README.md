@@ -23,15 +23,6 @@ I am a Materials Science & Engineering student with a passion for **Tech Hardwar
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Saberartoria77&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saberartoria77&layout=compact&theme=dracula&hide_border=true"/>
-</div>
-
----
-
 ### ⚡ Current Focus
 
 * 🔭 I’m currently working on **Mechatronics & Robotics Minor** curriculum.
