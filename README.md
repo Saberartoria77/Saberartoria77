@@ -45,20 +45,12 @@ Here are the specific methodologies and tools I use to solve engineering problem
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Saberartoria77&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saberartoria77&layout=compact&theme=dracula&hide_border=true"/>
-</div>
-
----
 
 ### ⚡ Current Focus
 
 * 🔭 I’m currently working on **Mechatronics & Robotics Minor** curriculum.
 * 🌱 I’m deepening my knowledge in **Battery Materials** and **PCB Design**.
-* 💼 Goal: Landing a **Tech Hardware / R&D PEY Co-op** for Summer 2026.
+* 💼 Goal: Landing a **Tech Hardware / R&D PEY Co-op** for Summer 2027.
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Saberartoria77&label=Profile%20Views&color=blueviolet&style=flat" alt="Saberartoria77" />
