@@ -26,8 +26,8 @@ I am a Materials Science & Engineering student with a passion for **Tech Hardwar
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saberartoria77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saberartoria77&layout=compact&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Saberartoria77&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saberartoria77&layout=compact&theme=dracula&hide_border=true"/>
 </div>
 
 ---
@@ -41,4 +41,3 @@ I am a Materials Science & Engineering student with a passion for **Tech Hardwar
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Saberartoria77&label=Profile%20Views&color=blueviolet&style=flat" alt="Saberartoria77" />
 </p>
-
