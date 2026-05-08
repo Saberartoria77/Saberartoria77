@@ -36,12 +36,6 @@ CAD & FEA: SolidWorks, Siemens NX, ANSYS (Finite Element Analysis).
 Standards: GD&T & Inspection, Technical Documentation.
 
 
-⚡ Current Focus
-
-🔭 I'm currently building projects in data analysis and engineering analytics.
-🌱 I'm deepening my knowledge in Battery Materials and PCB Design.
-💼 Goal: Landing a Data / Data Analytics Internship for Summer 2026.
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Saberartoria77&label=Profile%20Views&color=blueviolet&style=flat" alt="Saberartoria77" />
 </p>
