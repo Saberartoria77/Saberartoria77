@@ -44,4 +44,4 @@ Data Analytics · Data Engineering · Solutions Engineering
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernie_Fang-blue)](https://linkedin.com/in/https://www.linkedin.com/in/bernie-fang-5bb21b220/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bernie_Fang-blue)](https://www.linkedin.com/in/bernie-fang-5bb21b220/)
